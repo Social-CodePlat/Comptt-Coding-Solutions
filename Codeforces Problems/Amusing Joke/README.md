@@ -10,13 +10,13 @@
 
 # <p> Help the "New Year and Christmas Men" and their friends to cope with this problem. You are given both inscriptions that hung over the front door the previous night, and a pile of letters that were found at the front door next morning. <p>
 
-##Input
+## Input
 ### <p> The input file consists of three lines: the first line contains the guest's name, the second line contains the name of the residence host and the third line contains letters in a pile that were found at the door in the morning. All lines are not empty and contain only uppercase Latin letters. The length of each line does not exceed 100.<p>
 
-##Output
+## Output
 ### <p> Print "YES" without the quotes, if the letters in the pile could be permuted to make the names of the "New Year and Christmas Men". Otherwise, print "NO" without the quotes.<p>
 
-###Examples
+### Examples
 input
 SANTACLAUS
 DEDMOROZ
@@ -40,7 +40,7 @@ NO
 
 
 ## Note
-###<p>In the first sample the letters written in the last line can be used to write the names and there won't be any extra letters left.
+### <p> In the first sample the letters written in the last line can be used to write the names and there won't be any extra letters left.
 
 In the second sample letter "P" is missing from the pile and there's an extra letter "L".
 
